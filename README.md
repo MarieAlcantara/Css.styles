@@ -2,9 +2,8 @@
   <head>
     <title>A cor vermelha</title> 
   </head>
-  <style>
-   h1, h2 {color:red;}
-  body{font-family:SamsungOne;}
+  <style> h1, h2 {color:red;}
+  body{Padrão:SamsungOne;}
   </style>
   <body>
     <h1>Testando as lindas cores</h1>
