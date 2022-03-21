@@ -1,1 +1,17 @@
-# Css.styles
+<html>
+  <head>
+    <title>A cor vermelha</title> 
+  </head>
+  <style>
+   h1, h2 {color:red;}
+  body{font-family:SamsungOne;}
+  </style>
+  <body>
+    <h1>Testando as lindas cores</h1>
+    <p>Introdução de um conteúdo edificante</p>
+    <h2>Minha cor favorita é vermelho.</h2>
+    <p>Ela é uma cor muito forte e popular.<p/>
+    <h2>Ela é meio contraditória e divide opiniões.</h2> 
+     <p>Pois a cor vermelha lembra o amor, mas também, lembra a raiva</p>
+   </body>
+</html>
