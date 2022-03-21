@@ -6,7 +6,7 @@
   body{ Padrão:SamsungOne; }
   </style>
   <body>
-    <h1>Testando as lindas cores</h1>
+    <h1>Falando do vermelho </h1>
     <p>Introdução de um conteúdo edificante</p>
     <h2>Minha cor favorita é vermelho.</h2>
     <p>Ela é uma cor muito forte e popular.<p/>
