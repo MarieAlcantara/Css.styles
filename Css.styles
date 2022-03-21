@@ -3,7 +3,7 @@
     <title>A cor vermelha</title> 
   </head>
   <style> 
-  body {font-family: SamsungOne;}
+    body {font-family: SamsungOne;}
     h1, h2 { color: red; font-family:SamsungOne; }
     h2{ color black; font-family:SamsungOne }
   </style>
